@@ -1,5 +1,7 @@
 venv
 *.HEIC
 *.heic
-*.JPG
-*.jpg
+*.JPEG
+*.jpeg
+*.PNG
+*.png
